@@ -33,7 +33,7 @@ Cloud
 <div align="center">
 
 <img src="dataset_overview.png" height="362" width="812">
-<span> Example images of the 64 Hazmat symbols in DL-Hazmat. Each sub-figure denotes a different class</span>
+<p> Example images of the 64 Hazmat symbols in DL-Hazmat. Each sub-figure denotes a different class</p>
 </div>
 
 
