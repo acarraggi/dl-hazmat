@@ -120,5 +120,5 @@ the dataset can be downloaded at this <ins><span style="font-size:20px;">[link](
 ## License
 This DL-Hazmat dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. 
 
-Permission is granted to use the data given that you agree to our license terms.
+Permission is granted to use the data given that you agree to our [license terms](License.md).
 
